@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\Bullet.png</Source>
+      <Name>Graphics\Bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Bullet.xnb</Output>
+      <Time>2010-08-16T16:16:56.8090421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Player2.png</Source>
+      <Name>Graphics\Player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2.xnb</Output>
+      <Time>2010-08-17T20:48:29.046873+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Eagle.png</Source>
+      <Name>Graphics\Eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Eagle.xnb</Output>
+      <Time>2010-08-16T17:02:04.3409041+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\brick_complete.png</Source>
+      <Name>Graphics\Brick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Brick.xnb</Output>
+      <Time>2010-08-17T20:33:33.0049463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Player1.png</Source>
+      <Name>Graphics\Player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1.xnb</Output>
+      <Time>2010-08-17T20:44:48.9162823+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Grass.png</Source>
+      <Name>Graphics\Grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Grass.xnb</Output>
+      <Time>2010-08-16T17:31:18.0532107+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Rock.png</Source>
+      <Name>Graphics\Rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Rock.xnb</Output>
+      <Time>2010-08-16T16:54:06.3015618+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Water.png</Source>
+      <Name>Graphics\Water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Water.xnb</Output>
+      <Time>2010-08-16T16:55:02.007748+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\pozadie.png</Source>
+      <Name>Graphics\pozadie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\pozadie.xnb</Output>
+      <Time>2010-08-18T12:56:43.648487+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\MenuPozadie.png</Source>
+      <Name>Graphics\MenuPozadie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuPozadie.xnb</Output>
+      <Time>2010-08-18T13:33:04.1282033+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\MenuCursor.png</Source>
+      <Name>Graphics\MenuCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuCursor.xnb</Output>
+      <Time>2010-08-08T16:02:28.8248916+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameOver.png</Source>
+      <Name>Graphics\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\GameOver.xnb</Output>
+      <Time>2010-08-18T14:31:24.3164026+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\EnemyThumb.png</Source>
+      <Name>Graphics\EnemyThumb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\EnemyThumb.xnb</Output>
+      <Time>2010-08-18T13:40:09.9355581+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Enemy1.png</Source>
+      <Name>Graphics\Enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy1.xnb</Output>
+      <Time>2010-08-16T15:56:19.6122785+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\vybuch.png</Source>
+      <Name>Graphics\vybuch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch.xnb</Output>
+      <Time>2010-08-16T17:15:32.6271354+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Enemy2.png</Source>
+      <Name>Graphics\Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy2.xnb</Output>
+      <Time>2010-08-17T20:39:02.4276182+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Enemy3.png</Source>
+      <Name>Graphics\Enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy3.xnb</Output>
+      <Time>2010-08-16T15:46:56.6490789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\vybuch2.png</Source>
+      <Name>Graphics\vybuch2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch2.xnb</Output>
+      <Time>2010-08-16T18:03:30.092717+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\born.png</Source>
+      <Name>Graphics\born</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\born.xnb</Output>
+      <Time>2010-08-16T18:07:18.4357775+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu1.png</Source>
+      <Name>Graphics\Menu1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu1.xnb</Output>
+      <Time>2010-08-18T13:01:33.2730526+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu2.png</Source>
+      <Name>Graphics\Menu2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu2.xnb</Output>
+      <Time>2010-08-18T13:00:50.8076237+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu3.png</Source>
+      <Name>Graphics\Menu3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu3.xnb</Output>
+      <Time>2010-08-18T13:02:31.6793932+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Menu4.png</Source>
+      <Name>Graphics\Menu4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu4.xnb</Output>
+      <Time>2010-08-18T13:02:58.442924+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\enterTexture.png</Source>
+      <Name>Graphics\enterTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\enterTexture.xnb</Output>
+      <Time>2010-08-18T13:35:35.6378692+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\levelTexture2.png</Source>
+      <Name>Graphics\levelTexture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture2.xnb</Output>
+      <Time>2010-08-18T13:56:11.38655+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\levelTexture1.png</Source>
+      <Name>Graphics\levelTexture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture1.xnb</Output>
+      <Time>2010-08-18T14:04:40.5006696+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gameOver1.png</Source>
+      <Name>Graphics\gameOver1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver1.xnb</Output>
+      <Time>2010-08-18T14:16:35.1265439+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gameOver2.png</Source>
+      <Name>Graphics\gameOver2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver2.xnb</Output>
+      <Time>2010-08-18T14:16:13.4163021+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\odmena1.png</Source>
+      <Name>Graphics\odmena1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena1.xnb</Output>
+      <Time>2010-08-18T19:45:12.5714132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\odmena2.png</Source>
+      <Name>Graphics\odmena2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena2.xnb</Output>
+      <Time>2010-08-18T20:06:47.2334637+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\odmena3.png</Source>
+      <Name>Graphics\odmena3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena3.xnb</Output>
+      <Time>2010-08-18T20:09:45.4406565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\odmena4.png</Source>
+      <Name>Graphics\odmena4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena4.xnb</Output>
+      <Time>2010-08-18T20:11:59.9973527+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Player1_ind.png</Source>
+      <Name>Graphics\Player1_ind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1_ind.xnb</Output>
+      <Time>2010-08-19T11:49:14.0340431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\gameOver_won.png</Source>
+      <Name>Graphics\congratTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\congratTexture.xnb</Output>
+      <Time>2010-08-19T15:40:18.6260524+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\howtoplay.png</Source>
+      <Name>Graphics\howtoplay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\howtoplay.xnb</Output>
+      <Time>2010-08-20T10:59:33.5372183+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\MenuTitle.spritefont</Source>
+      <Name>Font\MenuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\MenuTitle.xnb</Output>
+      <Time>2010-08-18T13:46:13.9433782+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\NewLevel.spritefont</Source>
+      <Name>Font\NewLevel</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\NewLevel.xnb</Output>
+      <Time>2010-08-18T14:01:00.408081+02:00</Time>
+    </Item>
+    <Item>
+      <Source>loop.mp3</Source>
+      <Name>loop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\loop.xnb</Output>
+      <Extra>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\loop.wma</Extra>
+      <Time>2010-08-18T14:53:29.4891982+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Player2_ind.png</Source>
+      <Name>Graphics\Player2_ind</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2_ind.xnb</Output>
+      <Time>2010-08-19T11:49:43.8457482+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\.NET Projects\BattleCity\BattleCity\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\.NET Projects\BattleCity\BattleCity\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\.NET Projects\BattleCity\BattleCity\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-09-14T19:08:02.4493342+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

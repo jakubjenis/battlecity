@@ -1,0 +1,1 @@
+C:\.NET Projects\BattleCity\BattleCity\Content\obj\x86\Debug\ResolveAssemblyReference.cache

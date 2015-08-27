@@ -1,0 +1,145 @@
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\BattleCity.exe
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\BattleCity.pdb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\obj\x86\Debug\BattleCity.exe
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\obj\x86\Debug\BattleCity.pdb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Bullet.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\brick_complete.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Grass.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Rock.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Water.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Bullet.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Brick.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Grass.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Rock.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Water.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Eagle.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Eagle.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level3.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\pozadie.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Font\MenuTitle.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Font\MenuTitle.spritefont
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuPozadie.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuPozadie.png
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuCursor.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level2.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level1.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Font\NewLevel.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Font\NewLevel.spritefont
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\GameOver.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\EnemyThumb.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level4.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy3.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\born.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player3.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player4.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu3.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu4.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\enterTexture.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\loop.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\loop.wma
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena1.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena2.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena3.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena4.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1_ind.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player3_ind.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level5.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level12.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level11.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level10.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level9.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level8.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level7.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level6.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level14.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level13.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\level15.txt
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\congratTexture.xnb
+C:\Skola\PROG\BattleCity\project\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\howtoplay.xnb
+C:\.NET Projects\BattleCity\BattleCity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\.NET Projects\BattleCity\BattleCity\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\.NET Projects\BattleCity\BattleCity\obj\x86\Debug\BattleCity.exe
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Bullet.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Eagle.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Brick.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Grass.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Rock.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Water.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\pozadie.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuPozadie.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuCursor.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\GameOver.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\EnemyThumb.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Enemy3.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\vybuch2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\born.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu3.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Menu4.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\enterTexture.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\levelTexture1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\gameOver2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena1.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena2.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena3.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\odmena4.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1_ind.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\congratTexture.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\howtoplay.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\MenuTitle.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\NewLevel.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\loop.xnb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\loop.wma
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Bullet.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Eagle.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\MenuTitle.spritefont
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\brick_complete.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player1.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Grass.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Rock.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Water.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\MenuPozadie.png
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Font\NewLevel.spritefont
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level4.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level3.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level2.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level5.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level12.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level11.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level10.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level9.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level8.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level7.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level6.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level14.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level13.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level15.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\level1.txt
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\BattleCity.exe
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\BattleCity.pdb
+C:\.NET Projects\BattleCity\BattleCity\obj\x86\Debug\BattleCity.pdb
+C:\.NET Projects\BattleCity\BattleCity\bin\x86\Debug\Content\Graphics\Player2_ind.xnb
